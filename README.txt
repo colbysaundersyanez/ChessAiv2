@@ -1,3 +1,4 @@
+Piece Number Association:
 Empty Space: 0
 Pawn: 1
 knights: 2
