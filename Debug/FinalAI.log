@@ -1,0 +1,2 @@
+﻿  FinalAI.cpp
+C:\Users\saundcol000\source\repos\FinalAI\FinalAI\FinalAI.cpp(44,13): error C3867:  'std::basic_fstream<char,std::char_traits<char>>::open': non-standard syntax; use '&' to create a pointer to member
